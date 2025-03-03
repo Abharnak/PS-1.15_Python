@@ -2,3 +2,5 @@ New file created.
 After Push command, use pull to get file from github.
 ddffh
 # Now using pull command to check if it is working or not
+
+# merge from sub
